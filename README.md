@@ -30,3 +30,4 @@ echo node_modules > .gitignore<br>
 
 ## Running
 Because of the "start" entry in package.json, this can be run with *npm run start*.
+I am using Postman to test these endpoints.
